@@ -21,7 +21,7 @@ while True:
     break
 
 
-  url1 = f"https://fortnitetracker.com/profile/all/{username}/events"
+  url1 = f"https://fortnitetracker.com/profile/all/{Ycx}/events"
 
 
   response1 = requests.get(url1)
